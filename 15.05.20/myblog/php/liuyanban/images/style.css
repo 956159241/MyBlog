@@ -1,0 +1,29 @@
+<!--全局样式
+.lyb{ margin:0 auto; width:100%; }
+.lyb .nav{ height:30px; background:rgba(0,0,0,0.5); border-radius:10px; margin-bottom:10px;}
+.lyb .nav li{ float:right; margin:0 50px; line-height:30px;}
+.lyb .nav li a{ text-decoration:none; color:#CCC;
+-moz-transition: all 0.2s ease-in-out; 
+								-webkit-transition: all 0.2s ease-in-out; 
+								-o-transition: all 0.2s ease-in-out; 
+								-ms-transition: all 0.2s ease-in-out; 
+								transition: all 0.2s ease-in-out; }
+.lyb .nav li a:hover{ text-decoration:none; color:#000;}
+
+.lyb .lyb_ly{ width:100%; border:0; text-align:center;border-spacing:0;  margin:0 auto;border-radius:10px; color:#CCC; background: #333;
+background-image:url(bg.gif);
+}
+
+.max{width:80%; margin-left:38px; margin-bottom:20px;}
+.middle{ margin-top:50px; background:rgba(0,0,0,0.2);}
+.min{ border-bottom:thin #000; background:rgba(0,0,0,0.2); color:#999;}
+.hh{ width:90%;border-radius:10px; margin-top:10px;}
+.lyb_content{ color:#CCC;}
+-->
+/*留言板留言样式表*/
+body{ background:rgb(26,26,26);}
+.liuyanban{ width:80%; border-radius:10px;margin:60px auto; background-image:url(dlbg.jpg);}
+.liuyanban table{ font-size:16px; background:rgba(0,0,0,0.2); color:#CCC;}
+
+a { text-decoration:none; color:#FFF;}
+a:hover { text-decoration:none; color:#000;}
